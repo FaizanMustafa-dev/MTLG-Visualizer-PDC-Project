@@ -5455,7 +5455,7 @@ def show_about():
     
     with link_col2:
         st.markdown("""
-        <a href="https://github.com/FaizanMustafa-dev/MTLG-Visualizer-PDC-Project" target="_blank" style="text-decoration: none;">
+        <a href="https://docs.google.com/document/d/1QFrt-89ItQb7KYOYYPbBYl6Y6PeroD2e/edit?usp=sharing&ouid=103310650248000019526&rtpof=true&sd=true" target="_blank" style="text-decoration: none;">
             <div style="text-align: center; padding: 1rem; border-radius: 8px; 
                       background: rgba(168, 85, 247, 0.1); border: 1px solid rgba(168, 85, 247, 0.3);
                       transition: all 0.3s ease;">
@@ -5544,4 +5544,5 @@ def main():
 # RUN APPLICATION
 # ============================================
 if __name__ == "__main__":
+
     main()
